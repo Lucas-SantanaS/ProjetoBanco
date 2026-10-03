@@ -8,8 +8,8 @@ public class Main {
 
         System.out.print("Digite qual funcionalidade você deseja acessar: ");
         System.out.println(
-                "\n1 - Criar conta \n" +
-                "2 - Consultar conta \n" +
+                "\n1 - Criar Conta \n" +
+                "2 - Consultar Conta \n" +
                 "3 - Depositar \n" +
                 "4 - Sacar \n" +
                 "5 - Ver saldo \n" +
@@ -18,10 +18,10 @@ public class Main {
 
         switch (menu){
             case 1:
-                System.out.println("Função criar conta em construção!");
+                System.out.println("Função criar Conta em construção!");
                 break;
             case 2:
-                System.out.println("função consultar conta em construção!");
+                System.out.println("função consultar Conta em construção!");
                 break;
             case 3:
                 System.out.println("função depositar em construção!");
